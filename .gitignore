@@ -101,3 +101,4 @@ ENV/
 # other specific files
 private.py
 CEO_Compensation/Highest_Paid_CEOs_SP500.csv
+FreeLearning/keys.py
