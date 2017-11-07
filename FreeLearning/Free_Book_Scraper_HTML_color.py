@@ -53,7 +53,7 @@ book_title = soupysoupsoup.find('div', class_='dotd-title').h2.text
 img = soupysoupsoup.find('img', class_='bookimage imagecache imagecache-dotd_main_image')
 description = [x for x in soupysoupsoup.find('div', class_ = {'dotd-main-book-summary'}).children][-4].get_text().strip()
 
-im = Image.open(request.urlopen('http:'+img['src']))
+im = Image.open(request.urlopen('http:'+parse.quote(img['src'])))
 
 # Finds Two most common colors in image to color the button in the email.
 NUM_CLUSTERS = 5
