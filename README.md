@@ -8,7 +8,7 @@ I've completed an analysis of [CEO Compensation](https://github.com/kaumaron/Dat
 <img src="https://cdn-images-1.medium.com/max/800/1*eIP6lGLKWgfzj-nn2Zkqwg.png" width="100%"/>
 
 ## Congressional Partisanship
-As a study in visualization with `matplotlib` and `seaborn`, I scraped data from the Senate and House websites that listed the members of each Congress and how many seats each party had. The results are written up in the [Senate Partisanship](https://github.com/kaumaron/Data_Science/blob/master/Congressional_Partisanship/Senate%20Partisanship.ipynb) Jupyter notebook. I plan on writing a short Medium piece as well. You can directly view the [Tableau visualization here](https://public.tableau.com/views/CongressionalPartisanship/Dashboard1?:embed=true&:display_count=no). 
+As a study in visualization with `matplotlib` and `seaborn`, I scraped data from the Senate and House websites that listed the members of each Congress and how many seats each party had. The results are written up in the [Senate Partisanship](https://github.com/kaumaron/Data_Science/blob/master/Congressional_Partisanship/Senate%20Partisanship.ipynb) Jupyter notebook. There is a short write up of the results on [Towards Data Science](https://towardsdatascience.com/congressional-partisanship-a-visualization-c7bc448fd3e). You can directly view the [Tableau visualization here](https://public.tableau.com/views/CongressionalPartisanship/Dashboard1?:embed=true&:display_count=no). 
 
 <iframe src="https://public.tableau.com/views/CongressionalPartisanship/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
