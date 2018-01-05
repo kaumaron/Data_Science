@@ -12,6 +12,9 @@ As a study in visualization with `matplotlib` and `seaborn`, I scraped data from
 
 <iframe src="https://public.tableau.com/views/CongressionalPartisanship/Dashboard1?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
+## Twitter Bots
+I've created a couple of Twitter bots that retweet (RT) specific types of tweets. I have a bot that RTs data science and artificial intelligence news ([@akdm_bot](https://twitter.com/akdm_bot), currently at just over 600 followers). I also created a bot for a friend's alternative history podcast ([@what_if_history](https://twitter.com/what_if_history)). The bot helped increase his audience engagement and helped to bring the number of followers from between 20 and 40 to around 600. Both bots are toy projects at the moment and have kinks that need to be worked out. The code is available in my [Twitter Bots repository](https://github.com/kaumaron/TwitterBots).
+
 ## Packt Publishing Free-Learning E-Books
 [Packt Publishing](https://www.packtpub.com/) has a daily e-book that is offered for free as long as you sign-up for an account and visit the [Free Learning](https://www.packtpub.com/packt/offers/free-learning) page. As part of my morning routine, I check my email, so I wrote [a scraper](https://github.com/kaumaron/Data_Science/tree/master/FreeLearning) that gathers the title of the book and a description and sends an email to a list of users. I have three versions: `Free_Book_Scraper.py` is the first version that I wrote with an HTML email, `Free_Book_Scraper_HTML_color.py` is an newer version that included an HTML button with a button that changed color to match the colors of the book,  `Free_Book_Scraper_html_w_colors.py` is the current version that I run on my AWS EC2 instance (if you are interested in joining that list send an [email](mailto:andrewkmauro@gmail.com?subject=Packt%20Free%20Learning)).
 
