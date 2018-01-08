@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Here we have a growing collection of work I've done in the area of data science. The first works that will be loaded here are focused on data cleaning and visualization rather than machine learning.
+Here we have a growing collection of work I've done in the area of data science. The first works that will be loaded here are focused on data cleaning and visualization rather than machine learning. I'm on [LinkedIn](https://www.linkedin.com/in/akdcm/) and [Twitter](https://twitter.com/kaumaron).
 
 ## CEO Compensation Analysis
 I've completed an analysis of [CEO Compensation](https://github.com/kaumaron/Data_Science/blob/master/Congressional_Partisanship/Senate%20Partisanship.ipynb). The project was motivated by a Wall Street Journal article about female CEOs having a higher median pay. I have a write up of the project that is less detailed in [Towards Data Science](https://towardsdatascience.com/female-ceos-have-a-higher-median-pay-but-is-it-related-to-their-gender-40d0662b7d4f) on Medium's network of publications.
