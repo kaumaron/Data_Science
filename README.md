@@ -22,6 +22,15 @@ I'm a person who enjoys writing and editing. I've been working with Towards Data
 * [Female CEOs Have a Higher Median Pay, But Is It Related to Their Gender?](https://towardsdatascience.com/female-ceos-have-a-higher-median-pay-but-is-it-related-to-their-gender-40d0662b7d4f)
 * [What’s the Use of All This Data If No One Wants to Look at It?](https://medium.com/@akdm/whats-the-use-of-all-this-data-if-no-one-wants-to-look-at-it-a64f56d113c2)
 
+## Tableau Visualizations
+Here is a list of [my public](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/) Tableau visualizations:
+* [Endangered World Languages](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/EndangeredWorldLanguages/Dashboard1)
+* [Congressional Partisanship](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/CongressionalPartisanship/Dashboard1)
+* [News Source Biases Summary](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/NewsSourceBiases/AverageNewsSourceBias) and [Breakdown](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/NewsSourceBiases-FactualContentRating/NewsSourceBias)
+* [Student Growth - Grade 1 - Math](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/Grade1MathStudentGrowth-SABronx1/Dashboard1)
+* [Where MSDA Grads Go to College](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege/MSDAGraduatesSchools)
+
+
 ## Packt Publishing Free-Learning E-Books
 [Packt Publishing](https://www.packtpub.com/) has a daily e-book that is offered for free as long as you sign-up for an account and visit the [Free Learning](https://www.packtpub.com/packt/offers/free-learning) page. As part of my morning routine, I check my email, so I wrote [a scraper](https://github.com/kaumaron/Data_Science/tree/master/FreeLearning) that gathers the title of the book and a description and sends an email to a list of users. I have three versions: `Free_Book_Scraper.py` is the first version that I wrote with an HTML email, `Free_Book_Scraper_HTML_color.py` is an newer version that included an HTML button with a button that changed color to match the colors of the book,  `Free_Book_Scraper_html_w_colors.py` is the current version that I run on my AWS EC2 instance (if you are interested in joining that list send an [email](mailto:andrewkmauro@gmail.com?subject=Packt%20Free%20Learning&body=Please%20add%20me%20to%20the%20list)).
 
