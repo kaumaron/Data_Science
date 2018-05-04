@@ -39,6 +39,11 @@ print('Percent of visitors without adding to cart: {:.2f}%'\
 cart_checkout = cart.merge(checkout, how = 'left')
 no_checkout = cart_checkout.checkout_time[cart_checkout.checkout_time\
     .isnull()].shape[0] * 100 / cart_checkout.shape[0]
+# Edited to change to correct answer
+# cart_checkout has more rows than the cart DF. I'm guessing this is
+# due to multiple items being put in the cart by the same user.
+no_checkout = cart_checkout.checkout_time[cart_checkout.checkout_time\
+    .isnull()].shape[0] * 100 / cart.shape[0]
 print('Percent of carts that do not checkout: {:.2f}%'.format(no_checkout))
 
 #Left merge all data into large DF
@@ -53,6 +58,11 @@ checkout_purchase = checkout.merge(purchase, how =  'left')
 percent_checkout_no_purchase = checkout_purchase[checkout_purchase\
     .purchase_time.isnull()].shape[0] * 100 / \
     checkout_purchase[checkout_purchase.checkout_time.notnull()].shape[0]
+# Edited to correct
+# Same as no checkout?
+percent_checkout_no_purchase = all_data[all_data.purchase_time.isnull() & 
+    all_data.checkout_time.notnull()].shape[0] * 100 / \
+    all_data[all_data.checkout_time.notnull()].shape[0]
 print('Percent of users that leave checkout without purchase: {:.2f}%'\
 .format(percent_checkout_no_purchase))
 
