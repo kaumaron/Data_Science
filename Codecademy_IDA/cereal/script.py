@@ -22,13 +22,20 @@ print('\nMedian calories: {} cal'.\
       format(median_calories))
 
 #Determine first percentile greater than 60 calories
-nth_percentile = 0
-for i in range(100):
-  if np.percentile(calorie_stats, i) > 60:
-    nth_percentile = i
-    break
-print('\nFirst percentile above 60 cal: {}%'.\
-      format(nth_percentile))
+def per_find(method):
+    nth_percentile = 0
+    for i in np.linspace(0,100, num = 1000000):
+        if np.percentile(calorie_stats, i, interpolation = method) > 60:
+            nth_percentile = i
+            return nth_percentile
+
+# Exploring the effect of percentile interpolation on result
+percentiles = []
+for i in ['linear', 'lower', 'higher', 'midpoint', 'nearest']:
+   percentiles.append((i,per_find(i)))
+print('\nFirst percentile above 60 cal:')
+for k,v in percentiles:
+    print('{}: {}'.format(k,v))
 
 #Determine percentage of cereals with calories greater than 60
 more_calories = len([x for x in calorie_stats \
@@ -37,6 +44,11 @@ more_calories = len([x for x in calorie_stats \
 print('\nPercent of cereals with greater' \
       ' than 60 calories: {:.2f}%'.\
       format(more_calories))
+
+# Determining closest sum to 100 for percentile + percent cals
+print('Percentile + Percent Over 60 Cal:')
+for k,v in percentiles:
+    print('{}: {:.6f}'.format(k,v+more_calories))
 
 #Determine the standard deviation for the dataset
 calorie_std = np.std(calorie_stats)
