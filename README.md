@@ -7,7 +7,7 @@ Here we have a growing collection of work I've done in the area of data science.
 
 The project now lives in a website version of the email that would go to the writers. Since we had put the project on hiatus, I've been able to increase the efficiency of the aggregator and reduce it's runtime from about 30 minutes to about 6 minutes, allowing it to run more often so the webpage can be updated more frequently. Coming improvements will included better headlines for each topic and short summaries.
 
-<img src="https://s3.amazonaws.com/thenewsunspun/html5up-fractal/images/tnu_logo.png" width="100%"/>
+[<img src="https://s3.amazonaws.com/thenewsunspun/html5up-fractal/images/tnu_logo.png" width="80%"/>](http://newsunspun.com)
 
 ## CEO Compensation Analysis
 I've completed an analysis of [CEO Compensation](https://github.com/kaumaron/Data_Science/blob/master/CEO_Compensation/CEO_Compensation.ipynb). The project was motivated by a Wall Street Journal article about female CEOs having a higher median pay. I have a write up of the project that is less detailed in [Towards Data Science](https://towardsdatascience.com/female-ceos-have-a-higher-median-pay-but-is-it-related-to-their-gender-40d0662b7d4f) on Medium's network of publications.
