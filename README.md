@@ -47,4 +47,4 @@ As part of an interview for an administrative position at a charter school, I to
 ## Graduate Map
 In order to allow future and current families at my current school explore which colleges and regions of the coutry graduates go to, I created an interactive map that includes the colleges and majors of graudates from 2009 to 2017. The [Tableau visualization can be viewed directly here](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege).
 
-<iframe src="https://public.tableau.com/views/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege?:showVizHome=no&:embed=true" width="100%" height="600"></iframe>
