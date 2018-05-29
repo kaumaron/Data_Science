@@ -35,7 +35,7 @@ Here is a list of [my public](https://public.tableau.com/profile/andrew.k.decoti
 * [Congressional Partisanship](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/CongressionalPartisanship/Dashboard1)
 * [News Source Biases Summary](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/NewsSourceBiases/AverageNewsSourceBias) and [Breakdown](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/NewsSourceBiases-FactualContentRating/NewsSourceBias)
 * [Student Growth - Grade 1 - Math](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/Grade1MathStudentGrowth-SABronx1/Dashboard1)
-* [Where MSDA Grads Go to College](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege/MSDAGraduatesSchools)
+* [Where MSDA Grads Go to College](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege)
 
 
 ## Packt Publishing Free-Learning E-Books
@@ -45,6 +45,6 @@ Here is a list of [my public](https://public.tableau.com/profile/andrew.k.decoti
 As part of an interview for an administrative position at a charter school, I took a look at some sample grade data from a Math Test that was taken in September and December and analyzed the results. The [write up](https://github.com/kaumaron/Data_Science/blob/master/Grade_Analysis/Student%20Achievement.ipynb) is anonymized to obscure the names and classes of the students in the sample data set.
 
 ## Graduate Map
-In order to allow future and current families at my current school explore which colleges and regions of the coutry graduates go to, I created an interactive map that includes the colleges and majors of graudates from 2009 to 2017. The [Tableau visualization can be viewed directly here](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege/MSDAGraduatesSchools).
+In order to allow future and current families at my current school explore which colleges and regions of the coutry graduates go to, I created an interactive map that includes the colleges and majors of graudates from 2009 to 2017. The [Tableau visualization can be viewed directly here](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege).
 
-<iframe src="https://public.tableau.com/views/WhereMSDAGradsGoToCollege/MSDAGraduatesSchools?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
