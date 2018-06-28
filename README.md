@@ -2,6 +2,13 @@
 
 Here we have a growing collection of work I've done in the area of data science. I'm on [LinkedIn](https://www.linkedin.com/in/akdcm/) and [Twitter](https://twitter.com/kaumaron). Here's my [resume](https://www.dropbox.com/s/tbdrmbaexzqk6v5/Andrew%20DeCotiis-Mauro%20Data%20Scientist%20-%2003222018.pdf?dl=0).
 
+## Codecademy Intro to Data Analysis
+I recently completed [Codecademy's Intro to Data Analysis Pro Intensive](https://www.codecademy.com/pro/intensive/introduction-to-data-analysis) which focused on building real world skills in data analysis, data visualization, SQL, Git, and hypothesis testing. I have a [separate repository](https://github.com/kaumaron/Data_Science/tree/master/Codecademy_IDA/) containing the projects from the course.
+
+The course also included a capstone project involving an A/B Test for a hypothetical gym, MuscleHub. The capstone required [analysis](https://github.com/kaumaron/Data_Science/blob/master/Codecademy_IDA/musclehub_project/musclehub.ipynb) and a set of slides for a [presentation](https://github.com/kaumaron/musclehub_submission/blob/master/MuscleHub%20A-B%20Test%20Results%20-%20Codecademy%20IDA%20Pro%20Intensive.pdf), and I also recorded a [video of the presentation](https://youtu.be/UisgjKUOkk4) which is embedded below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UisgjKUOkk4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## The News Unspun
 [The News Unspun](http://newsunspun.com) is a project that I began with a friend of mine in February 2016. We set out to solve the problem of unreliable news being passed around. My goal was to create a daily newsletter that contained an unbiased summary of the news that could keep a busy professional up to date in under 5 minutes. The summaries were hand written by a team of writers; twice a day a news aggregator that I built would send an email to the writers.
 
