@@ -12,7 +12,7 @@ The course also included a capstone project involving an A/B Test for a hypothet
 ## The News Unspun
 [The News Unspun](http://newsunspun.com) is a project that I began with a friend of mine in February 2016. We set out to solve the problem of unreliable news being passed around. My goal was to create a daily newsletter that contained an unbiased summary of the news that could keep a busy professional up to date in under 5 minutes. The summaries were hand written by a team of writers; twice a day a news aggregator that I built would send an email to the writers.
 
-The project now lives in a website version of the email that would go to the writers. Since we had put the project on hiatus, I've been able to increase the efficiency of the aggregator and reduce it's runtime from about 30 minutes to about 6 minutes, allowing it to run more often so the webpage can be updated more frequently. Coming improvements will included better headlines for each topic and short summaries.
+The project now lives in a website version of the email that would go to the writers. Since we had put the project on hiatus, I've been able to increase the efficiency of the aggregator and reduce it's runtime from about 30 minutes to about 6 minutes, allowing it to run more often so the webpage can be updated more frequently. Coming improvements will include better headlines for each topic and short summaries.
 
 [<img src="https://s3.amazonaws.com/thenewsunspun/html5up-fractal/images/tnu_logo.png" width="80%"/>](http://newsunspun.com)
 
@@ -52,6 +52,6 @@ Here is a list of [my public](https://public.tableau.com/profile/andrew.k.decoti
 As part of an interview for an administrative position at a charter school, I took a look at some sample grade data from a Math Test that was taken in September and December and analyzed the results. The [write up](https://github.com/kaumaron/Data_Science/blob/master/Grade_Analysis/Student%20Achievement.ipynb) is anonymized to obscure the names and classes of the students in the sample data set.
 
 ## Graduate Map
-In order to allow future and current families at my current school explore which colleges and regions of the coutry graduates go to, I created an interactive map that includes the colleges and majors of graudates from 2009 to 2017. The [Tableau visualization can be viewed directly here](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege).
+In order to allow future and current families at my current school explore which colleges and regions of the country graduates go to, I created an interactive map that includes the colleges and majors of graduates from 2009 to 2017. The [Tableau visualization can be viewed directly here](https://public.tableau.com/profile/andrew.k.decotiis.mauro#!/vizhome/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege).
 
 <iframe src="https://public.tableau.com/views/WhereMSDAGradsGoToCollege-Story/WhereMSDAGradsGotoCollege?:showVizHome=no&:embed=true" width="100%" height="600"></iframe>
