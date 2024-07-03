@@ -10,7 +10,6 @@ matplotlib==1.5.3
 networkx==1.11
 newspaper==0.0.9.8
 newspaper3k==0.1.9
-nltk==3.6.6
 numpy==1.22.0
 pandas==0.18.1
 requests>=2.20.0
