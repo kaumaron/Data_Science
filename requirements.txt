@@ -1,6 +1,6 @@
 aylien-apiclient==0.6.0
 beautifulsoup4==4.5.1
-bokeh==0.12.2
+bokeh==3.8.2
 dill==0.2.5
 feedgen==0.9.0
 feedgenerator==1.9
